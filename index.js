@@ -3,4 +3,9 @@
 var jsonfy  = require('./lib/fail')
 var fail    = require('./lib/jsonfy')
 
-module.exports = { jsonfy, fail }
+vat toExport = {
+  jsonfy  : jsonfy,
+  fail    : fail
+}
+
+module.exports = toExport
