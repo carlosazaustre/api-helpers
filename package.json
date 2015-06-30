@@ -1,0 +1,34 @@
+{
+  "name": "jsonfy",
+  "version": "1.0.0",
+  "description": "Create JSON from string to response request",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/carlosazaustre/jsonfy"
+  },
+  "keywords": [
+    "JSON",
+    "node.js",
+    "node",
+    "JavaScript",
+    "ECMAScript 6",
+    "ES6"
+  ],
+  "author": {
+    "name": "Carlos Azaustre",
+    "email":"cazaustre@gmail.com"
+    "url": "https://carlosazaustre.es"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/carlosazaustre/jsonfy/issues"
+  },
+  "homepage": "https://github.com/carlosazaustre/jsonfy"
+}
