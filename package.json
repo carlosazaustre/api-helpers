@@ -7,7 +7,7 @@
     "test": "test"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "./node_modules/jasmine-node/bin/jasmine-node ./test"
   },
   "repository": {
     "type": "git",
@@ -19,18 +19,19 @@
     "JSON",
     "node.js",
     "node",
-    "JavaScript",
-    "ECMAScript 6",
-    "ES6"
+    "JavaScript"
   ],
   "author": {
     "name": "Carlos Azaustre",
-    "email":"cazaustre@gmail.com"
+    "email": "cazaustre@gmail.com",
     "url": "https://carlosazaustre.es"
   },
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/carlosazaustre/api-helpers/issues"
   },
-  "homepage": "https://github.com/carlosazaustre/api-helpers"
+  "homepage": "https://github.com/carlosazaustre/api-helpers",
+  "devDependencies": {
+    "jasmine-node": "^1.14.5"
+  }
 }
