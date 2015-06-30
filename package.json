@@ -1,7 +1,7 @@
 {
-  "name": "jsonfy",
+  "name": "api-helpers",
   "version": "1.0.0",
-  "description": "Create JSON from string to response request",
+  "description": "Helpers functions to REST API developments",
   "main": "index.js",
   "directories": {
     "test": "test"
@@ -11,9 +11,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/carlosazaustre/jsonfy"
+    "url": "https://github.com/carlosazaustre/api-helpers"
   },
   "keywords": [
+    "REST",
+    "API",
     "JSON",
     "node.js",
     "node",
@@ -28,7 +30,7 @@
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/carlosazaustre/jsonfy/issues"
+    "url": "https://github.com/carlosazaustre/api-helpers/issues"
   },
-  "homepage": "https://github.com/carlosazaustre/jsonfy"
+  "homepage": "https://github.com/carlosazaustre/api-helpers"
 }
