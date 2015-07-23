@@ -1,7 +1,7 @@
 'use strict'
 
-var jsonfy  = require('./lib/fail')
-var fail    = require('./lib/jsonfy')
+var jsonfy  = require('./lib/jsonfy')
+var fail    = require('./lib/fail')
 
 var toExport = {
   jsonfy  : jsonfy,
