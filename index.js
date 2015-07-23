@@ -3,7 +3,7 @@
 var jsonfy  = require('./lib/fail')
 var fail    = require('./lib/jsonfy')
 
-vat toExport = {
+var toExport = {
   jsonfy  : jsonfy,
   fail    : fail
 }
